@@ -23,11 +23,9 @@ Open the ModTemplate generated mod in `Zomboid/Workshop/ModTemplate` or an exist
 ![](https://github.com/Konijima/PZ-Libraries/blob/Tutorial/Images/4-install-emmylua.png)
 
 # 5)
-## Download the Decompiled files for the game version you need
+## Decompile the game
 
-[Get it from this repo Releases](https://github.com/Konijima/PZ-Libraries/releases)
-
-Place it somewhere in your Zomboid directory.
+Place the jars somewhere in your Zomboid directory.
 
 ![](https://github.com/Konijima/PZ-Libraries/blob/Tutorial/Images/5-download-libraries.png)
 
