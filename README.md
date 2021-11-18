@@ -26,8 +26,7 @@ Open the ModTemplate generated mod in `Zomboid/Workshop/ModTemplate` or an exist
 ## Decompile the game
 
 Place the jars somewhere in your Zomboid directory.
-
-![](https://github.com/Konijima/PZ-Libraries/blob/Tutorial/Images/5-download-libraries.png)
+Tutorial not available yet.
 
 # 6)
 ## Go to `File > Project Structures...`
