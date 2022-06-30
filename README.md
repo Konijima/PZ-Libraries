@@ -114,5 +114,19 @@ You can rename the files to append the version for later.<br>
 
 # - Setup a new/existing Project Zomboid Mod
 
+<details>
+<summary><b>Create a new mod</b></summary>
+
+</details>
+
+<details>
+<summary><b>Use an existing mod</b></summary>
+
+</details>
+
+<details>
+<summary><b>Setup the libraries</b></summary>
+
+</details>
 
 ---
