@@ -128,7 +128,11 @@ You can delete the <b>src</b> directory and create your default workshop mod str
 
 <details>
 <summary><b>Use an existing mod</b></summary>
-
+Select <b>File > Open...</b><br>
+<img src="https://github.com/Konijima/PZ-Libraries/blob/Tutorial-v2/Images/ExistingMod1.png?raw=true" /><br>
+Select the mod you want to open with IntelliJ and click Trusted when prompted.<br>
+<img src="https://github.com/Konijima/PZ-Libraries/blob/Tutorial-v2/Images/ExistingMod2.png?raw=true" /><br>
+Press <b>Ctrl + S</b> to save the project and you are good ready for the final step.
 </details>
 
 <details>
