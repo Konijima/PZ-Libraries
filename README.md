@@ -116,7 +116,14 @@ You can rename the files to append the version for later.<br>
 
 <details>
 <summary><b>Create a new mod</b></summary>
-
+Select <b>File > New > Project...</b><br>
+<img src="https://github.com/Konijima/PZ-Libraries/blob/Tutorial-v2/Images/CreateNewMod1.png?raw=true" /><br>
+Now select the zomboid local workshop directory and enter your new mod name.<br>
+<img src="https://github.com/Konijima/PZ-Libraries/blob/Tutorial-v2/Images/CreateNewMod2.png?raw=true" /><br>
+You should now have an empty project ready to be setup.<br>
+<img src="https://github.com/Konijima/PZ-Libraries/blob/Tutorial-v2/Images/CreateNewMod3.png?raw=true" /><br>
+You can delete the <b>src</b> directory and create your default workshop mod structure.<br>
+<img src="https://github.com/Konijima/PZ-Libraries/blob/Tutorial-v2/Images/CreateNewMod4.png?raw=true" /><br>
 </details>
 
 <details>
