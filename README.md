@@ -150,7 +150,12 @@ Then select <b>zomboid.jar</b> and press the other <b>+</b> icon and add <b>zomb
 <summary><b>Setup the mod project modules</b></summary>
 Select <b>File > Project Structure...</b><br>
 <img src="https://github.com/Konijima/PZ-Libraries/blob/Tutorial-v2/Images/setup_libs_1.png?raw=true" /><br>
-Then select <b>Project Settings > Modules</b><br>
+Then select <b>Project Settings > Modules</b> then <b>Dependencies</b> tab.<br>
+<img src="https://github.com/Konijima/PZ-Libraries/blob/Tutorial-v2/Images/project_modules.png?raw=true" /><br>
+Add both global libraries.<br>
+<img src="https://github.com/Konijima/PZ-Libraries/blob/Tutorial-v2/Images/project_modules_2.png?raw=true" /><br>
+Check both library boxes and apply.<br>
+<img src="https://github.com/Konijima/PZ-Libraries/blob/Tutorial-v2/Images/project_modules_3.png?raw=true" /><br>
 </details>
 
 <details>
