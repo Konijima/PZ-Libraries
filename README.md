@@ -89,6 +89,26 @@ BUILD SUCCESSFUL in 217ms
 
 # - Sources Organising
 
+<details>
+<summary><b>1) The stuff that we want</b></summary>
+So first of all, there is a couple things that we will need.<br>
+<img src="https://github.com/Konijima/PZ-Libraries/blob/Tutorial-v2/Images/SetupCapsid_stuffWeWant.png?raw=true" /><br>
+<hr>
+<b>build > generated > sources</b><br>
+This directory contains both the java and lua source code. We don't need it but we might want it to do quick search using any search tools that we prefer.<br>
+<hr>
+<b>lib</b><br>
+This directory contains the 3 jar files that we will need to get the full power out of IntelliJ while developping mods.
+</details>
+
+<details>
+<summary><b>2) Create a directory to keep it organized</b></summary>
+Anywhere in your computer, create a directory named <b>zomboid-decompiled</b>.<br>
+In that directory create a new directory named with the current version of the game.<br><br>
+Copy the 3 jar files into that new directory and optionally copy the <i>build/generated/sources</i> directory.<br>
+You can rename the files to append the version for later.<br>
+<img src="https://github.com/Konijima/PZ-Libraries/blob/Tutorial-v2/Images/SetupCapsid_organize.png?raw=true" />
+</details>
 
 ---
 
