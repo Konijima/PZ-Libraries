@@ -75,7 +75,8 @@ In the case that you made a mistake, you can delete the file <b>local.properties
 <summary><b>4) Run Setup Workspace config</b></summary>
 Select the new configuration <b>setupWorkspace</b> created from the previous step then Run it.<br>
 <img src="https://github.com/Konijima/PZ-Libraries/blob/Tutorial-v2/Images/SetupCapsid_createNewProject_setupWorkspace.png?raw=true" /><br>
-This step will take some time, it will decompile, annotate and create everything we need to start making mods.
+This step will take some time (a couple minutes), it will decompile, annotate and create everything we need to start making mods.<br>
+It will run these tasks in this order <pre>zomboidJar, decompileZomboid, annotateZomboid, compileZomboid</pre>
 </details>
 
 ---
