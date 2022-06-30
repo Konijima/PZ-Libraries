@@ -136,14 +136,21 @@ Press <b>Ctrl + S</b> to save the project and you are ready for the final step.
 </details>
 
 <details>
-<summary><b>Setup the libraries</b></summary>
+<summary><b>Setup the global libraries</b> (per version)</summary>
 Select <b>File > Project Structure...</b><br>
 <img src="https://github.com/Konijima/PZ-Libraries/blob/Tutorial-v2/Images/setup_libs_1.png?raw=true" /><br>
 Then select <b>Platform Settings > Global Libraries</b><br>
 <img src="https://github.com/Konijima/PZ-Libraries/blob/Tutorial-v2/Images/setup_libs_2.png?raw=true" /><br>
 Press the <b>+</b> icon and add both <b>zdoc-lua.jar</b> and <b>zomboid.jar</b> to your global libraries.<br>
-Then select zomboid.jar and press the other <b>+</b> icon and add <b>zomboid-source.jar</b>.<br>
+Then select <b>zomboid.jar</b> and press the other <b>+</b> icon and add <b>zomboid-sources.jar</b>.<br>
 <img src="https://github.com/Konijima/PZ-Libraries/blob/Tutorial-v2/Images/setup_libs_3.png?raw=true" /><br>
+</details>
+
+<details>
+<summary><b>Setup the mod project modules</b></summary>
+Select <b>File > Project Structure...</b><br>
+<img src="https://github.com/Konijima/PZ-Libraries/blob/Tutorial-v2/Images/setup_libs_1.png?raw=true" /><br>
+Then select <b>Project Settings > Modules</b><br>
 </details>
 
 <details>
