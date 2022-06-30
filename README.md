@@ -14,8 +14,8 @@
 ## - Install IntelliJ IDEA
 Install the IDE on your computer. Find resource online how to install on your specific OS if needed.
 
-## - Setup CAPSID for PZ decompilation
+## - Setup CAPSID for Project Zomboid decompilation
 
-## - Keep it clean
+## - Source Organising
 
-## - Setup a new PZ Lua Mod Project
+## - Setup a new/existing Project Zomboid Mod
