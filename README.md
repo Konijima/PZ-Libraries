@@ -58,7 +58,13 @@ Install the IDE on your computer. Find resource online how to install on your sp
     Expand the <b>Tasks > build setup</b> in the tree view.<br>
     Double click <b>createRunConfigurations</b> task to execute it.<br>
     <img src="https://github.com/Konijima/PZ-Libraries/blob/Tutorial-v2/Images/SetupCapsid_createNewProject_createRunConfiguration.png?raw=true" />
+</details>
 
+<details>
+    <summary><b>3) Enter path to game installation directory</b></summary>
+    During the create run configuration you will be prompt to enter the game installation directory.<br>Find and paste the full path to where the game is installed on your machine.<br>This should be the same directory that contains the executable to run the game.<br>
+    <img src="https://github.com/Konijima/PZ-Libraries/blob/Tutorial-v2/Images/SetupCapsid_setGameInstallDir.png?raw=true" />
+    Then press enter and wait for the task to complete.
 </details>
 
 ---
