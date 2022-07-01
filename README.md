@@ -48,8 +48,8 @@ Then click on the Load Gradle Icon or press <b>Ctrl + Shift + O</b> to apply the
 # Setup CAPSID
 
 <details>
-<summary><b>1) Expand the graddle tab</b></summary>
-Click on the graddle tab on the right side of the window.<br>
+<summary><b>1) Expand the gradle tab</b></summary>
+Click on the gradle tab on the right side of the window.<br>
 <img src="https://github.com/Konijima/PZ-Libraries/blob/Tutorial-v2/Images/SetupCapsid_createNewProject_expandgradletab.png?raw=true" /><br>
 </details>
 
