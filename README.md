@@ -4,7 +4,7 @@
 - Easy Decompiling  
 - Global Libraries  
 - No redundancies  
-- Complete Intelisense
+- Complete intellisense
 - Easy Search Java and Lua source
 
 ---
@@ -156,8 +156,8 @@ Add both global libraries.<br>
 <img src="https://github.com/Konijima/PZ-Libraries/blob/Tutorial-v2/Images/project_modules_2.png?raw=true" /><br>
 Check both library boxes and apply.<br>
 <img src="https://github.com/Konijima/PZ-Libraries/blob/Tutorial-v2/Images/project_modules_3.png?raw=true" /><br>
-You now have Intelisense working in your project.<br>
-<img src="https://github.com/Konijima/PZ-Libraries/blob/Tutorial-v2/Images/Intelisense_1.png" /><br>
+You now have intellisense working in your project.<br>
+<img src="https://github.com/Konijima/PZ-Libraries/blob/Tutorial-v2/Images/intelisense_1.png" /><br>
 </details>
 
 <details>
