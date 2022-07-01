@@ -22,7 +22,7 @@ Install the IDE on your computer. Find resource online how to install on your sp
 
 # Install CAPSID
 <details>
-<summary><b>1) Create a new project</b></summary>
+<summary><b>1) Create a new project</b> (used for decompiling only)</summary>
 Select <b>File > New > Project...</b><br>
 <img src="https://github.com/Konijima/PZ-Libraries/blob/Tutorial-v2/Images/SetupCapsid_createNewProject.png?raw=true" /><br>
 </details>
