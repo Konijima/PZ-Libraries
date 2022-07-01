@@ -194,11 +194,13 @@ Then click <b>Find in files</b><br>
 <details>
 <summary><b>Decompiling new version</b></summary>
 Re-open the capsid project we used to decompile the first time.<br>
+Re-run the <b>setupWorkspace</b> configurations.<br>
+<img src="https://github.com/Konijima/PZ-Libraries/blob/Tutorial-v2/Images/SetupCapsid_createNewProject_setupWorkspace.png?raw=true" /><br>
 </details>
 
 <details>
 <summary><b>Updating libraries</b></summary>
-
+Go back to the <b>Sources Organising</b> tutorial section and do the steps again with the new generated sources/jar files.
 </details>
 
 ---
