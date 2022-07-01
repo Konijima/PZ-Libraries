@@ -170,3 +170,35 @@ Install it and <a href="https://emmylua.github.io/">check the documentation to l
 </details>
 
 ---
+
+# - Search/Find tools
+
+<details>
+<summary><b>Search in the Java source</b></summary>
+Right-click the zomboid.jar root library in the external libraries part of your project file tree.<br>
+<img src="https://github.com/Konijima/PZ-Libraries/blob/Tutorial-v2/Images/search-java.png?raw=true" /><br>
+Then click <b>Find in files</b><br>
+</details>
+
+<details>
+<summary><b>Search in the Lua source</b></summary>
+Right-click the zdoc-lua.jar root library in the external libraries part of your project file tree.<br>
+<img src="https://github.com/Konijima/PZ-Libraries/blob/Tutorial-v2/Images/search-lua.png?raw=true" /><br>
+Then click <b>Find in files</b><br>
+</details>
+
+---
+
+# - Project Zomboid has updated
+
+<details>
+<summary><b>Decompiling new version</b></summary>
+Re-open the capsid project we used to decompile the first time.<br>
+</details>
+
+<details>
+<summary><b>Updating libraries</b></summary>
+
+</details>
+
+---
