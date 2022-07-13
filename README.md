@@ -173,7 +173,7 @@ Add both global libraries.<br>
 Check both library boxes and apply.<br>
 <img src="https://github.com/Konijima/PZ-Libraries/blob/Tutorial-v2/Images/project_modules_3.png?raw=true" /><br>
 You now have intellisense working in your project.<br>
-<img src="https://github.com/Konijima/PZ-Libraries/blob/Tutorial-v2/Images/intelisense_1.png" /><br>
+<img src="https://github.com/Konijima/PZ-Libraries/blob/Tutorial-v2/Images/Intelisense_1.png?raw=true" /><br>
 </details>
 
 <br>
