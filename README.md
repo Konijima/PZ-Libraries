@@ -14,7 +14,7 @@ Hopefully I made this as easy as possible to understand.
 
 <br>
 
-# IntelliJ IDEA Community Edition
+# A) IntelliJ IDEA Community Edition
 |[Windows](https://www.jetbrains.com/idea/download/#section=windows)|[MacOS](https://www.jetbrains.com/idea/download/#section=mac)|[Linux](https://www.jetbrains.com/idea/download/#section=linux)|
 |---|---|---|
 
@@ -22,7 +22,7 @@ Install the IDE on your computer. Find resource online how to install on your sp
 
 <br>
 
-# Pre-Setup
+# B) Pre-Setup
 Install Capsid and run the configuration.
 
 <details>
@@ -82,7 +82,7 @@ Install it and <a href="https://emmylua.github.io/">check the documentation to l
 
 <br>
 
-# Decompiling
+# C) Decompiling
 Let's get decompiling in a single step.
 
 <details>
@@ -101,7 +101,7 @@ BUILD SUCCESSFUL in 217ms
 
 <br>
 
-# Versioning
+# D) Versioning
 Let's organise a little bit before we get to modding.
 
 <details>
@@ -127,7 +127,7 @@ You can rename the files to append the version for later.<br>
 
 <br>
 
-# Setup a new/existing Project Zomboid Mod
+# E) Setup a new/existing Project Zomboid Mod
 Alright we are almost there, you will be typing code soon i swear.
 
 <details>
@@ -178,7 +178,7 @@ You now have intellisense working in your project.<br>
 
 <br>
 
-# Search/Find tools
+# F) Search/Find tools
 Now you can search into the source and figure for yourself how things work.
 
 <details>
@@ -197,7 +197,7 @@ Then click <b>Find in files</b><br>
 
 <br>
 
-# Project Zomboid has updated
+# G) Project Zomboid has updated
 But what if PZ updated to a new version?
 
 <details>
@@ -209,5 +209,5 @@ Re-run the <b>setupWorkspace</b> configurations.<br>
 
 <details>
 <summary><b>Updating global libraries for the new version</b></summary>
-Go back to the <b>Sources Organising</b> tutorial section and do the steps again with the new generated sources/jar files.
+Go back to <a href="#setup-a-newexisting-project-zomboid-mod">Section E) Step 3 & 4</a> and do it again with the new generated sources/jar files.
 </details>
