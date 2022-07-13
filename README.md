@@ -209,5 +209,5 @@ Re-run the <b>setupWorkspace</b> configurations.<br>
 
 <details>
 <summary><b>Updating global libraries for the new version</b></summary>
-Go back to <a href="https://github.com/Konijima/PZ-Libraries/blob/Tutorial-v2/README.md#e-setup-a-newexisting-project-zomboid-mod">Section E) Step 2 & 3</a> and do it again with the new generated sources/jar files.
+Go back to <b>section E step 2 & 3</b> and do it again with the new generated sources/jar files.
 </details>
