@@ -202,13 +202,13 @@ But what if PZ updated to a new version?
 
 <details>
 <summary><b>Decompiling a new PZ version</b></summary>
-Make sure you Project Zomboid game has been updated.<br>
-Open the capsid project we used to decompile the first time.<br>
+Make sure your Project Zomboid game has been updated.<br>
+Open the <b>capsid project</b> we used for decompiling the first time.<br>
 Run the <b>setupWorkspace</b> configuration again.<br>
-<img src="https://github.com/Konijima/PZ-Libraries/blob/Tutorial-v2/Images/SetupCapsid_createNewProject_setupWorkspace.png?raw=true" /><br>
+<img src="https://github.com/Konijima/PZ-Libraries/blob/Tutorial-v2/Images/SetupCapsid_createNewProject_setupWorkspace.png?raw=true" />
 </details>
 
 <details>
 <summary><b>Updating global libraries for the new version</b></summary>
-Go back to <b>section E step 2 & 3</b> and do it again with the new generated sources/jar files.
+Go back to <b>section E step 2 & 3</b> and do it again with the new generated jar files.
 </details>
