@@ -35,7 +35,7 @@ Select <b>File > New > Project...</b><br>
 <summary><b>2) Setup the new project</b></summary>
 We will install Capsid in this new project to get the jar libraries and decompiled source.<br>
 So first, select <b>Groovy</b> & <b>Gradle</b>.
-Then make sure to use Java 17, it should be default when installing IntelliJ.<br>
+Then make sure to use Java 17, it should be default when installing IntelliJ. Make sure to use Gradle 7.2, it is not default.<br>
 <img src="https://github.com/Konijima/PZ-Libraries/blob/Tutorial-v2/Images/SetupCapsid_createNewProject_groovygradle.png?raw=true" /><br>
 </details>
 
